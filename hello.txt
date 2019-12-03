@@ -1,3 +1,6 @@
 public void hello(){
-	
+	system.out.println("bong,bong,bong") wq!~
+	wq1
+
+
 }
