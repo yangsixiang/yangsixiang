@@ -1,0 +1,7 @@
+public static void mytest(){
+	system.out.println("dsa")
+}
+
+
+
+
